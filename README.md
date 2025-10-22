@@ -5,7 +5,7 @@ Software Developer Intern @ SMG Ventures Corp Pvt. Ltd
 - 🔭 Here's my [portfolio](https://kushalm-portfolio.vercel.app)                                                 
 - 🌱 I’m currently Final Year Student at Maharaja Institute of Technology Mysore at CSE Department.
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- worked as Intern [<img src="https://github.com/Kushal7795/Kushal_Git/blob/619e9a35e1d27735d5a84acab250aa4edb0a326d/Screenshot%202025-10-22%20225533.png" height="24">](https://dyashin.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://smgventures.in/)
+- worked as Intern [<img src="https://github.com/Kushal7795/Kushal_Git/blob/619e9a35e1d27735d5a84acab250aa4edb0a326d/Screenshot%202025-10-22%20225533.png" height="34">](https://dyashin.com/) [<img height="34" src="https://github.com/Kushal7795/Kushal_Git/blob/a06d74912e4f69c12fcf8cc934df7bece6ee30c0/Screenshot%202025-10-22%20234904.png">](https://smgventures.in/)
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/KushalM74444037) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kushal--m/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kushal8400/)
 
